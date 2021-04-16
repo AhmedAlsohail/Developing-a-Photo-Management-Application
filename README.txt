@@ -1,5 +1,3 @@
-Project By/AHMAD ALSOHAIL
-
 Data Structures "CSC212" Programing Assignment in King Saud University, the project was in FALL 2020,
 first semester of year 2020/2021 (Online Semester).
 
