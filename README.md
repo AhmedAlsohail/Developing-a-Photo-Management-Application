@@ -11,4 +11,4 @@ first semester of year 2020/2021 (Online Semester).
 - Result - Contain the solution for templates.
 - Test cases - Contain test cases and it's outputs.
 
-this work got 100/100 on the WEB-CAT (automated grading system).
+This work got 100/100 on the WEB-CAT (automated grading system).
